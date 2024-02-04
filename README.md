@@ -30,7 +30,7 @@ The Python based web scraping tool called the Wikipedia Scraper is specifically 
 
 - **Beautiful Soup:** Special thanks to [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for providing a powerful tool for HTML parsing in Python.
 
-- **Wikipedia Package:** Gratitude to the developers of the [wikipedia-api](https://pypi.org/project/wikipedia/) package, which simplified the process of accessing and parsing Wikipedia data in our project.
+- **Wikipedia Package:** Gratitude to the developers of the [Wikipedia](https://pypi.org/project/wikipedia/) package, which simplified the process of accessing and parsing Wikipedia data in our project.
 
 ## Contact
 Email : mgmiteshgupta134@gmail.com
