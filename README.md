@@ -25,6 +25,7 @@ The Python based web scraping tool called the Wikipedia Scraper is specifically 
 
 - **Selenium:** Browser automation tool for web scraping (useful for dynamic content).
   - Install: `pip install selenium`
+  - 
 ## Acknowledgements
 
 - **Requests:** The [Requests](https://docs.python-requests.org/en/latest/) library made it easy to handle HTTP requests in our scraper.
