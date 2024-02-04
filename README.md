@@ -41,3 +41,5 @@ Email : mgmiteshgupta134@gmail.com
 Linkedin : https://www.linkedin.com/in/mitesh-gupta/
 
 Twitter : https://twitter.com/mg_mitesh
+
+Medium : https://medium.com/@mgmiteshgupta134
