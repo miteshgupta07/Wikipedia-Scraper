@@ -39,4 +39,4 @@ Linkedin : https://www.linkedin.com/in/mitesh-gupta/
 
 Twitter : https://twitter.com/mg_mitesh
 
-Medium : https://medium.com/@mgmiteshgupta134
+Medium : https://medium.com/@mitesh_gupta
