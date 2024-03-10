@@ -33,7 +33,7 @@ The Python based web scraping tool called the Wikipedia Scraper is specifically 
 - **Wikipedia Package:** Gratitude to the developers of the [Wikipedia](https://pypi.org/project/wikipedia/) package, which simplified the process of accessing and parsing Wikipedia data in our project.
 
 ## Contact
-Email : mgmiteshgupta134@gmail.com
+Email : miteshgupta2711@gmail.com
 
 Linkedin : https://www.linkedin.com/in/mitesh-gupta/
 
